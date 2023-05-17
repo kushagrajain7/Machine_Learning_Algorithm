@@ -1,4 +1,7 @@
-![image](https://github.com/kushagrajain7/Machine_Learning_Algorithm/assets/106591189/e6899bcf-a342-4fe4-aa73-46a404888608)
+![image](https://github.com/kushagrajain7/Machine_Learning_Algorithm/assets/106591189/3a83c62e-666b-4610-be91-ee8cf935d131)
+![image](https://github.com/kushagrajain7/Machine_Learning_Algorithm/assets/106591189/829deeb3-a475-48d2-a1b9-6bde253d9cf4)
+
+
 <img width="735" alt="Screenshot 2023-05-16 at 7 36 04 PM" src="https://github.com/kushagrajain7/Machine_Learning_Algorithm/assets/106591189/ce1c6c77-0367-4fa8-82bc-400cbb68018b">
 
 ![image](https://github.com/kushagrajain7/Machine_Learning_Algorithm/assets/106591189/0d8a0946-13e6-471b-815d-f9fa06a40cdd)
